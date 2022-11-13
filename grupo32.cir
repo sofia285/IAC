@@ -1,7 +1,7 @@
 {
   "comment" : "This is a JSON file describing a digital circuit, which can be loaded into the SEPE (Simulador Especial Para Ensino), a computer architecture simulator.",
-  "savedWithSimulatorVersion" : "2.1.3",
-  "savedWithSimulatorBuildOn" : "2022-05-27  at  13:52:58",
+  "savedWithSimulatorVersion" : "2.1.4",
+  "savedWithSimulatorBuildOn" : "2022-06-17  at  13:23:36",
   "editorLocked" : true,
   "startAutomatically" : true,
   "showConnectionColors" : false,
@@ -16,7 +16,7 @@
     "Y relative" : 42,
     "width" : 1236,
     "height" : 764,
-    "leftRightDividerLocation" : 237,
+    "leftRightDividerLocation" : 238,
     "topBottomDividerLocation" : 618
   },
   "connections" : [ {
@@ -29,10 +29,10 @@
       "targetPinID" : 39,
       "points" : [ {
         "X" : 332,
-        "Y" : 351
+        "Y" : 352
       }, {
         "X" : 336,
-        "Y" : 351
+        "Y" : 352
       }, {
         "X" : 336,
         "Y" : 332
@@ -51,10 +51,10 @@
       "targetPinID" : 40,
       "points" : [ {
         "X" : 332,
-        "Y" : 367
+        "Y" : 368
       }, {
         "X" : 349,
-        "Y" : 367
+        "Y" : 368
       }, {
         "X" : 349,
         "Y" : 348
@@ -121,10 +121,10 @@
       "targetPinID" : 11,
       "points" : [ {
         "X" : 644,
-        "Y" : 297
+        "Y" : 298
       }, {
         "X" : 576,
-        "Y" : 297
+        "Y" : 298
       }, {
         "X" : 576,
         "Y" : 166
@@ -153,10 +153,10 @@
       "targetPinID" : 10,
       "points" : [ {
         "X" : 644,
-        "Y" : 313
+        "Y" : 314
       }, {
         "X" : 538,
-        "Y" : 313
+        "Y" : 314
       }, {
         "X" : 538,
         "Y" : 182
@@ -177,10 +177,10 @@
         "X" : 538,
         "Y" : 365
       }, {
-        "X" : 621,
+        "X" : 622,
         "Y" : 365
       }, {
-        "X" : 621,
+        "X" : 622,
         "Y" : 431
       }, {
         "X" : 644,
@@ -239,10 +239,10 @@
       "targetPinID" : 12,
       "points" : [ {
         "X" : 644,
-        "Y" : 329
+        "Y" : 330
       }, {
         "X" : 602,
-        "Y" : 329
+        "Y" : 330
       }, {
         "X" : 602,
         "Y" : 198
@@ -261,10 +261,10 @@
       "targetPinID" : 9,
       "points" : [ {
         "X" : 226,
-        "Y" : 351
+        "Y" : 352
       }, {
         "X" : 198,
-        "Y" : 351
+        "Y" : 352
       }, {
         "X" : 198,
         "Y" : 288
@@ -283,10 +283,10 @@
       "targetPinID" : 9,
       "points" : [ {
         "X" : 226,
-        "Y" : 367
+        "Y" : 368
       }, {
         "X" : 198,
-        "Y" : 367
+        "Y" : 368
       }, {
         "X" : 198,
         "Y" : 288
@@ -305,10 +305,10 @@
       "targetPinID" : 9,
       "points" : [ {
         "X" : 226,
-        "Y" : 383
+        "Y" : 384
       }, {
         "X" : 198,
-        "Y" : 383
+        "Y" : 384
       }, {
         "X" : 198,
         "Y" : 288
@@ -343,10 +343,10 @@
       "targetPinID" : 9,
       "points" : [ {
         "X" : 644,
-        "Y" : 249
+        "Y" : 250
       }, {
         "X" : 518,
-        "Y" : 249
+        "Y" : 250
       }, {
         "X" : 518,
         "Y" : 224
@@ -449,14 +449,14 @@
         "X" : 644,
         "Y" : 399
       }, {
-        "X" : 531,
+        "X" : 532,
         "Y" : 399
       }, {
-        "X" : 531,
-        "Y" : 431
+        "X" : 532,
+        "Y" : 432
       }, {
         "X" : 332,
-        "Y" : 431
+        "Y" : 432
       } ]
     } ]
   }, {
@@ -471,14 +471,14 @@
         "X" : 644,
         "Y" : 498
       }, {
-        "X" : 531,
+        "X" : 532,
         "Y" : 498
       }, {
-        "X" : 531,
-        "Y" : 447
+        "X" : 532,
+        "Y" : 448
       }, {
         "X" : 332,
-        "Y" : 447
+        "Y" : 448
       } ]
     } ]
   }, {
@@ -497,10 +497,10 @@
         "Y" : 582
       }, {
         "X" : 486,
-        "Y" : 463
+        "Y" : 464
       }, {
         "X" : 332,
-        "Y" : 463
+        "Y" : 464
       } ]
     } ]
   }, {
@@ -570,10 +570,10 @@
       "targetPinID" : 8,
       "points" : [ {
         "X" : 757,
-        "Y" : 249
+        "Y" : 250
       }, {
         "X" : 758,
-        "Y" : 249
+        "Y" : 250
       }, {
         "X" : 758,
         "Y" : 77
@@ -614,16 +614,16 @@
       "targetPinID" : 33,
       "points" : [ {
         "X" : 644,
-        "Y" : 281
+        "Y" : 282
       }, {
         "X" : 493,
-        "Y" : 281
+        "Y" : 282
       }, {
         "X" : 493,
-        "Y" : 415
+        "Y" : 416
       }, {
         "X" : 332,
-        "Y" : 415
+        "Y" : 416
       } ]
     } ]
   }, {
@@ -636,16 +636,16 @@
       "targetPinID" : 32,
       "points" : [ {
         "X" : 644,
-        "Y" : 265
+        "Y" : 266
       }, {
         "X" : 474,
-        "Y" : 265
+        "Y" : 266
       }, {
         "X" : 474,
-        "Y" : 399
+        "Y" : 400
       }, {
         "X" : 332,
-        "Y" : 399
+        "Y" : 400
       } ]
     } ]
   }, {
@@ -718,8 +718,8 @@
     "positionX" : 206,
     "positionY" : 90,
     "simGuiVisibleInSimulation" : true,
-    "simGuiXRelative" : 15,
-    "simGuiYRelative" : 33,
+    "simGuiXRelative" : 0,
+    "simGuiYRelative" : 0,
     "simGuiWidth" : 740,
     "simGuiHeight" : 818,
     "clockPeriod" : 200,
@@ -1023,7 +1023,7 @@
     "numberOfBits" : 1,
     "moduleDelay" : 5,
     "positionX" : 230,
-    "positionY" : 339,
+    "positionY" : 340,
     "nInputPinsArray" : [ {
       "className" : "InPin",
       "elementID" : 26,
@@ -1501,7 +1501,7 @@
     "numberOfBits" : 16,
     "moduleDelay" : 5,
     "positionX" : 648,
-    "positionY" : 237,
+    "positionY" : 238,
     "simGuiVisibleInSimulation" : true,
     "simGuiXRelative" : 666,
     "simGuiYRelative" : 48,
@@ -1512,8 +1512,15 @@
     "windowScreenWidthPixels" : 1024,
     "windowScreenHeightixels" : 512,
     "defaultPenColor" : 51063,
+    "image paths" : [ "media\\game_over.png", "media\\game_over2.png", "media\\game_over3.png", "media\\pausa_cfundo.png" ],
     "sounds/videos settings" : [ {
-      "filePathName" : "media\\meteor_sound.wav",
+      "filePathName" : "media\\intro.mp4",
+      "relative sound volume" : 1.0,
+      "relative start time" : 0.0,
+      "relative stop time" : 1.0,
+      "playAsClip" : false
+    }, {
+      "filePathName" : "media\\musica.mp3",
       "relative sound volume" : 1.0,
       "relative start time" : 0.0,
       "relative stop time" : 1.0,
@@ -1525,7 +1532,25 @@
       "relative stop time" : 1.0,
       "playAsClip" : false
     }, {
-      "filePathName" : "media\\musica.mp3",
+      "filePathName" : "media\\explosion_sound.wav",
+      "relative sound volume" : 0.51,
+      "relative start time" : 0.0,
+      "relative stop time" : 1.0,
+      "playAsClip" : false
+    }, {
+      "filePathName" : "media\\power_up.wav",
+      "relative sound volume" : 1.0,
+      "relative start time" : 0.0,
+      "relative stop time" : 1.0,
+      "playAsClip" : false
+    }, {
+      "filePathName" : "media\\game_over.wav",
+      "relative sound volume" : 1.0,
+      "relative start time" : 0.0,
+      "relative stop time" : 1.0,
+      "playAsClip" : false
+    }, {
+      "filePathName" : "media\\missil.wav",
       "relative sound volume" : 1.0,
       "relative start time" : 0.0,
       "relative stop time" : 1.0,
